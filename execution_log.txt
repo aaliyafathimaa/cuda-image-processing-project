@@ -1,0 +1,3 @@
+CUDA image processing completed successfully.
+Processed 1048576 pixels using GPU.
+Kernel execution completed with 256 threads per block.
